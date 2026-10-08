@@ -770,7 +770,7 @@ jobs:
       uses: actions/checkout@v7.0.1
       with:
         #repository: Drizin/NsisMultiUser
-        repository: k-takata/NsisMultiUser
+        repository: scresto09/NsisMultiUser  # TODO! TEMP! test French translation
         ref: for-vim
         path: NsisMultiUser
 
